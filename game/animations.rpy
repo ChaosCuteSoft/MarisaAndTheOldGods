@@ -2,7 +2,7 @@ init offset = -1
 
 
 #default variables
-define defaultZ = 0.8
+define defaultZ = 1.5
 define defaultX = 640
 define excitedHigh = -55
 define excitedTime = 0.2
