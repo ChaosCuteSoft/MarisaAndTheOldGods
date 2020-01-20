@@ -1,6 +1,6 @@
 label ch99:
     scene mountainforest
-    with dottrans2
+    with cuttrans2
     "Marisa arrived at the source of the wild sounds, approaching slowly."
     show yukari monster at f640
     "In the distance, she could see a very tall figure, like a broken mannequin that was bleeding eyes."
@@ -15,7 +15,6 @@ label ch99:
     show yukari monster at t880
     y "Hear me! King of Infinite Space! Planetmover! The Creator of Panic! Son of Chaos and the Void! Lord of the Gate! Opener of the Way!"
     y "Umr At-Tawil! Iak-Sathath! YOG-SOTHOTH NAFL'FTHAGN!!! Your servant call upon you!"
-
 
 
     return
